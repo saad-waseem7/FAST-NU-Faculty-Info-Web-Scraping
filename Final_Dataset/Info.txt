@@ -1,1 +1,1 @@
-This folder conatins the final merged dataset with all faculty information.
+This folder contains the final merged dataset with all faculty information.
