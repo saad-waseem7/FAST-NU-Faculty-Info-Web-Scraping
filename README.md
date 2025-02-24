@@ -46,7 +46,7 @@ The department-specific data is merged to form a comprehensive dataset, providin
 1. *Install Dependencies*:  
    Ensure you have the necessary Python packages installed:
    ```bash
-   pip install requests pandas beautifulsoup4
+   pip install requests pandas beautifulsoup4 
 
 2. *Run the Jupyter Notebook*:
    The project is implemented in a Jupyter Notebook, which contains all the scraping and data manipulation code. Open and execute the notebook to generate the output CSV files.
